@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanBartleyHKUST
-- 👀 I’m interested in coastal and marine numerical modelling.
+- 👀 I’m interested in ocean numerical modelling.
 
 <!---
 DanBartleyHKUST/DanBartleyHKUST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
